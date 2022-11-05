@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Shirish2004
 - 👀 I’m interested in Data Science, Machine Learning,and Statistics
-- 🌱 I’m currently learning Machine Learning and Deep Learning
+- 🌱 I’m currently learning Machine Learning, Deep Learning, Computer Vision and Data Base Management Systems.
 - 💞️ I’m looking to collaborate on Data Science related proucts that include statistical analysis, inferrencing and algorithm building
 - 📫 How to reach me ...email me at either shirishjha2002@gmail.com or shirish20@iiserb.ac.in
 
