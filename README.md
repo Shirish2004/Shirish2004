@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Shirish2004
+- 👋 Hi, I’m @Shirish2004, PhD scholar at IISER Bhopal
 - 👀 I’m interested in Robotics, Generative AI, Optimization
 - 🌱 I’m currently performing my research on assistive robotics
 - 💞️ I’m looking to collaborate on Robotics, and allied domains like computer vision, generative ai.
