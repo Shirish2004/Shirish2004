@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Shirish2004
-- 👀 I’m interested in Data Science, Machine Learning,and Statistics
-- 🌱 I’m currently learning Machine Learning, Deep Learning, Computer Vision and Data Base Management Systems.
-- 💞️ I’m looking to collaborate on Data Science related proucts that include statistical analysis, inferrencing and algorithm building
-- 📫 How to reach me ...email me at either shirishjha2002@gmail.com or shirish20@iiserb.ac.in
+- 👀 I’m interested in Robotics, Generative AI, Optimization
+- 🌱 I’m currently performing my research on assistive robotics
+- 💞️ I’m looking to collaborate on Robotics, and allied domains like computer vision, generative ai.
+- 📫 How to reach me ...email me at either shirishjha2002@gmail.com or shirish24@iiserb.ac.in
 
 <!---
 Shirish2004/Shirish2004 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
