@@ -2,12 +2,6 @@
 
 🛠️ Passionate about Robotics, Machine Learning, Reinforcement Learning, Computer Vision, NLP, and Optimization.
 
-🧠 Experienced in real-world applications:
-
-Built MARL frameworks for strategic games like Capture the Flag.
-
-Developed deep learning pipelines for urban greenery segmentation and agricultural classification using UAVs.
-
 📈 Hands-on with large-scale NLP systems using LLMs for fake news detection and question answering.
 
 🤖 Designed robotic manipulators integrating CV + RL, and developed assistive tech like eye-controlled wheelchairs.
